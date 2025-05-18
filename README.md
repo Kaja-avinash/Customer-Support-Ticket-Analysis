@@ -1,4 +1,4 @@
-# FUTURE_DS_02
+
 # Customer Support Ticket Analysis
 
 This project provides a comprehensive analysis of customer support tickets using data visualization, sentiment analysis, and text mining. By leveraging NLP techniques and interactive dashboards, the project helps organizations gain insights into customer satisfaction, ticket trends, and the effectiveness of support teams.
